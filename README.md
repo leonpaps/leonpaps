@@ -54,7 +54,7 @@ No app store, no supply chain attack vector.
 This is the watch I have been wearing on my wrist for the last few years. I really enjoyed making it. 
 Here is a mock product page that I had fun with.
 
-[hackerwatch](hackerwatch.leonpaps.com)
+[hackerwatch](https://hackerwatch.leonpaps.com)
 
 Things I'm currently interested in
 🤖 Robotics
